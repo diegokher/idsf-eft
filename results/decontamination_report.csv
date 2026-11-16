@@ -1,0 +1,4 @@
+dataset,train_before,validation_before,test_size,exact_overlap_train_test,train_rows_removed_vs_test,train_removed_source_indices_vs_test,exact_overlap_validation_test,validation_rows_removed_vs_test,exact_overlap_train_validation_after_test_filter,train_rows_removed_vs_validation,train_removed_source_indices_vs_validation,train_after,validation_after,test_after,pdu_full_vs_nominal_train
+imdb,800,300,25000,1,1,[12097],3,3,0,0,[],799,297,25000,0.99875
+ag_news,800,300,7600,0,0,[],0,0,0,0,[],800,300,7600,1.0
+trec,800,300,500,0,0,[],1,1,2,2,"[5075, 3448]",798,299,500,0.9975

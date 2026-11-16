@@ -1,0 +1,10 @@
+dataset,control,delta_acc_pp (Agent - control),delta_energy_pct (Agent - control)
+imdb,Random-70,-3.518,-42.39
+imdb,Random-70+L_D,-5.494,-34.63
+imdb,Random-rhoAgent+L_D,11.408,0.36
+ag_news,Random-70,-0.245,-42.7
+ag_news,Random-70+L_D,-0.763,-15.27
+ag_news,Random-rhoAgent+L_D,-0.716,4.61
+trec,Random-70,-0.24,-11.55
+trec,Random-70+L_D,-2.48,3.39
+trec,Random-rhoAgent+L_D,6.32,-5.1

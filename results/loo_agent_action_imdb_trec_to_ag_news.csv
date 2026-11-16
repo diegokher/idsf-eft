@@ -1,0 +1,2 @@
+fold,target_dataset,action_0_internal,action_1_internal,action_2_internal,action_3_internal,action_4_internal,rho,q,w_ppl,w_len,w_div,max_length,u0_internal,u1_internal,u2_internal,u3_internal,u4_internal,n_selected,pdu_clean,pdu_nominal
+imdb_trec_to_ag_news,ag_news,-0.06154278665781021,-0.09213770180940628,0.7962456345558167,0.6290746331214905,-1.0,0.8516298532485962,0.5,0.25763635671688906,0.2492370793053515,0.4931265639777594,49,-0.06154278665781021,-0.09213770180940628,0.7962456345558167,0.6290746331214905,-1.0,682,0.8525,0.8525
